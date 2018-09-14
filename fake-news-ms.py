@@ -1,6 +1,4 @@
-# Ko, Ivan
-# CS120-1F
-# HW11: fake news-ms
+# @author Ko, Ivan
 
 """Iterate through a csv file, parse the title, and generate a list with each Word containing the strTemp\
 and its occurance as count. Then sort the list in descending other for count. Next, using the input value n to \
